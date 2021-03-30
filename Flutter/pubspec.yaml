@@ -11,10 +11,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  date_format: ^1.0.8
-  vm_service: ^5.5.0
-  package_info: ^0.4.3+2
-  shared_preferences: ^0.5.12+4
+  date_format: ^2.0.2
+  vm_service: ^6.2.0
+  package_info: ^2.0.0
+  shared_preferences: ^2.0.5
 
 dev_dependencies:
   flutter_test:
